@@ -1,0 +1,8 @@
+@font-face {
+    font-family: "officialBook";
+    src: url("{{ asset('fonts/OfficialBook.ttf') }}");
+}
+
+*{
+    font-family: 'officialBook';
+}
